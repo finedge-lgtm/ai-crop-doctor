@@ -3,6 +3,9 @@
 Crop Disease Analyser  is an AI-driven web application that analyzes crop photos (from camera or uploads) to detect plant diseases, explain their causes, and provide easy, language-based solutions.
 It also scans agriculture-related product labels (like fertilizers, pesticides, seeds, etc.) and explains their details, uses, dos & don’ts — all available in multiple Indian languages.
 
+installation
+Download our app by clicking code button and download zip and extract to your pc's location when python pip and its intalled dependencies(already given in requirements.txt) installed by pip then run your app with streamlit run "app file food.py location on your pc"
+
 🚀 Features
 
 
@@ -139,7 +142,16 @@ Farmer can read or listen in Hindi or Tamil.
 
 
 🔤 Available Languages
-LanguageCodeHindihiEnglishenTamiltaTeluguteBengalibnMarathimrGujaratiguPunjabipaKannadaknMalayalamml
+Hindi
+English
+Tamil
+Telugu
+Bengali
+Marathi
+Gujarati
+Punjabi 
+Kannada
+Malayalam
 
 
 
@@ -184,6 +196,7 @@ Please fork this repo and create a pull request with your improvements.
 This project is free for educational and non-commercial use.
 
 ❤️ Acknowledgements
+
 Openai
 
 Indian Council of Agricultural Research (ICAR) datasets
